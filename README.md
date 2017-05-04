@@ -11,6 +11,6 @@ This script should be the first script called after cloning this repository on a
 A one line script that uses the `lvs` command from `lvm` that lists stats for logical volumes including cache information
 
 # TO-DO
-[x] link-scripts.sh
-[ ] add more script extensions to link-scripts.sh
-[ ] give link-scripts.sh ability to detect OS to link to correct directory if not Linux
+- [x] link-scripts.sh
+- [ ] add more script extensions to link-scripts.sh
+- [ ] give link-scripts.sh ability to detect OS to link to correct directory if not Linux
